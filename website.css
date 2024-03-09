@@ -1,0 +1,68 @@
+body {
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: wheat;
+    background-color: rgb(23, 224, 140);
+  }
+
+  .card1{
+    display: flex;
+    justify-content: space-around;
+    background-color: blueviolet;
+    border-radius: 20px;
+    margin: 0px;
+  }
+  
+  .collo{
+    width: 200px;
+    border-radius: 15%;
+    
+  }
+
+  .card2{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 30px;
+    width: 80rem;
+    height: 20rem;
+    border-radius: 20px;
+    padding: 0px 0px 0px 20px;
+    justify-content: space-around;
+    background-color: blueviolet;
+  }
+
+
+  .card3{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  #img1{
+    border-radius: 20px;
+    width: 20rem;
+    height: 18rem;
+  }
+
+  #img2{
+    border-radius: 20px;
+    width: 20rem;
+    height: 18rem;
+  }
+  #img3{
+    border-radius: 20px;
+    width: 19rem;
+    height: 18rem;
+  }
+  
+  #img4{
+    border-radius: 20px;
+    width: 19rem;
+    height: 18rem;
+  }
+
+  #a1{
+    width: 50px;
+  }
